@@ -1,0 +1,64 @@
+@font-face {
+  font-family: josefin sans;
+  src: url(JosefinSans-VariableFont_wght.ttf);
+}
+body {
+  background-color: #ffebf5;
+}
+.imgs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#profile {
+  display: flex;
+  width: 45%;
+  border-radius: 100%;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-top: 17%;
+}
+#logo {
+  display: flex;
+  width: 60%;
+  margin-top: 6%;
+}
+#whats,
+#insta {
+  width: 90%;
+  height: 60px;
+  background: #ffaece;
+  box-shadow: 4px 6px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 31.5px;
+  border: none;
+  margin-top: 15%;
+  text-align: center;
+  cursor: pointer;
+  align-items: center;
+}
+.imgbttn {
+  width: 10%;
+  margin-right: 30%;
+  vertical-align: middle;
+}
+.namesbttn {
+  display: block;
+  margin-top: 0%;
+  font-family: josefin sans;
+  font-size: 200%;
+  color: white;
+}
+.namesbttn img {
+  width: 10%;
+  align-items: center;
+}
+#icon {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  margin-left: 10%;
+  margin-top: -2%;
+}
+.namesbttn p {
+  margin-top: 5.5%;
+}
