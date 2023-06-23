@@ -35,6 +35,9 @@ body {
 #facebook,
 #tiktok {
   width: 90%;
+  font-family: josefin sans;
+  font-size: 25px;
+  color: white;
   height: 60px;
   background: #ffaece;
   box-shadow: 4px 6px 4px rgba(0, 0, 0, 0.25);
@@ -65,8 +68,9 @@ body {
   display: flex;
   justify-content: center;
   position: absolute;
-  margin-left: 10%;
-  margin-top: -2%;
+  margin-left: 3%;
+  margin-top: -12px;
+  width: 2em;
 }
 .namesbttn p {
   margin-top: 5.5%;
