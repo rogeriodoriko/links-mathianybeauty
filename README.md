@@ -31,4 +31,4 @@ Se tiver alguma dúvida ou sugestão em relação a este projeto, sinta-se à vo
 
 Rogério Fernandes
 rogerinhoneto@gmail.com
-<a href="https://www.linkedin.com/in/rogerio-fernandes78/">https://www.linkedin.com/in/rogerio-fernandes78/<a>
+<a href="https://www.linkedin.com/in/rogerio-fernandes78/">LINKEDIN<a>
